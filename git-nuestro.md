@@ -1,7 +1,7 @@
 # La era Gitoniana
 *Git* nuestro que estas en los repos
 Compimidos sean tus *commits*
-Venga anosotros tu *log*
+Venga a nosotros tu *log*
 En el local como en el *remote*
 Danos hoy nuestro *pull* de cada dia
 Perdona nuestros *conflictos*
